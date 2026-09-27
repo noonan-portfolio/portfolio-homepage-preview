@@ -1,0 +1,13 @@
+title: "Joseph Noonan · Homepage Preview"
+description: "Temporary preview of the homepage redesign"
+url: "https://noonan-portfolio.github.io"
+baseurl: "/portfolio-homepage-preview"
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-remote-theme
+locale: en
+markdown: kramdown
